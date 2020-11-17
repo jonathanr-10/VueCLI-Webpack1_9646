@@ -1,3 +1,5 @@
+maaf kak, yg link awal itu aku gatau kenapa bisa putih gitu (sesudah npm run serve)
+
 # vuecli-webpack
 
 ## Project setup
